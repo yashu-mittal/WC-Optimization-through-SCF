@@ -79,4 +79,50 @@ Financial metrics analyzed:
 
 ---
 
-## Repository Structure
+
+## Skills Demonstrated
+
+- Corporate Finance
+- Working Capital Management
+- Supply Chain Finance
+- Financial Statement Analysis
+- Research Methodology
+- Business Analytics
+- Data Interpretation
+- Financial Modeling Concepts
+- Industry Benchmarking
+- Report Writing
+- Strategic Recommendations
+
+---
+
+## Business Impact
+
+The research highlights the disconnect between India's advanced Supply Chain Finance infrastructure and low MSME adoption.
+
+The findings provide actionable recommendations for:
+
+- Banks
+- Financial Institutions
+- MSMEs
+- Policymakers
+- TReDS Platforms
+
+to improve working capital efficiency and accelerate Supply Chain Finance adoption.
+
+---
+
+## Academic Information
+
+**Degree:** Master of Business Administration (MBA)
+
+**Institute:** ABV-Indian Institute of Information Technology and Management (ABV-IIITM), Gwalior
+
+**Research Domain:** Finance | Supply Chain Finance | Working Capital Management
+
+
+---
+
+## License
+
+This repository is intended for educational and portfolio purposes only.
